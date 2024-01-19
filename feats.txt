@@ -1,0 +1,28 @@
+Oferta od
+Kategoria
+Pokaż oferty z numerem VIN
+Ma numer rejestracyjny
+Marka pojazdu
+Model pojazdu
+Wersja
+Generacja
+Rok produkcji
+Przebieg
+Pojemność skokowa
+Rodzaj paliwa
+Moc
+Skrzynia biegów
+Autonomia
+Napęd
+Pojemność baterii
+Rodzaj własności baterii
+Emisja CO2
+Filtr cząstek stałych
+Spalanie W Mieście
+Typ nadwozia
+Liczba drzwi
+Liczba miejsc
+Kolor
+Cena
+Szczegóły ceny
+Waluta
